@@ -3,6 +3,7 @@ Automatic Script to Install Gnome on your Void Linux Distro
 
 ## Packages included on the Script
 - curl
+- fastfetch
 - wget
 - git
 - xz

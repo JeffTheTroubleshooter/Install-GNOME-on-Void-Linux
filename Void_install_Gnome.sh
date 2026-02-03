@@ -31,7 +31,7 @@ xbps-install -Rs void-repo-nonfree
 
 # 3. Install core utilities and libraries
 echo -e "${BLUE}Installing core utilities and libraries...${NC}"
-xbps-install -y curl wget git xz unzip zip nano vim gptfdisk xtools mtools mlocate ntfs-3g fuse-exfat bash-completion linux-headers gtksourceview4 ffmpeg mesa-vdpau mesa-vaapi htop
+xbps-install -y curl wget git xz unzip zip nano vim gptfdisk xtools mtools mlocate ntfs-3g fuse-exfat bash-completion linux-headers gtksourceview4 ffmpeg mesa-vdpau mesa-vaapi htop fastfetch
 
 # 4. Install build tools
 echo -e "${BLUE}Installing build tools...${NC}"

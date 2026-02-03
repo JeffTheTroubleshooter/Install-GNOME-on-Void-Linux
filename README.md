@@ -79,5 +79,5 @@ Automatic Script to Install Gnome on your Void Linux Distro
 ## For your Information
 While the script is running, GNOME should start automatically. Once the script finishes, you will be prompted to reboot the system.
 
-## Check out my Youtube Channel
-Check out my Guides 
+## Video Guide in my Youtube Channel
+https://youtu.be/OoCjaGC0RVE
